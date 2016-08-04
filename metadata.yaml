@@ -1,0 +1,49 @@
+_repo: The-Golden-Bowl---Complete_4264
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: "The Golden Bowl is a 1904 novel by Henry James. Set in England, this\
+  \ complex, intense study of marriage and adultery completes what some critics have\
+  \ called the \"major phase\" of James' career. The Golden Bowl explores the tangle\
+  \ of interrelationships between a father and daughter and their respective spouses.\n\
+  The novel focuses deeply and almost exclusively on the consciousness of the central\
+  \ characters, with sometimes obsessive detail but also with powerful insight. The\
+  \ title is a quotation from Ecclesiastes 12:6, \"…or the golden bowl be broken,\
+  \ …then shall the dust return to the earth as it was\".\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4264'
+  wikidata: Q1248585
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Americans -- England -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Art -- Collectors and collecting -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: The Golden Bowl — Complete
+url: http://www.gutenberg.org/ebooks/4264
+wikipedia:
+- https://et.wikipedia.org/wiki/Kuldne_karikas
+- https://fr.wikipedia.org/wiki/La_Coupe_d%27or_(roman_d%27Henry_James)
+- https://ar.wikipedia.org/wiki/%D9%83%D9%88%D8%B2_%D8%A7%D9%84%D8%B0%D9%87%D8%A8
+- https://pt.wikipedia.org/wiki/The_Golden_Bowl
+- https://cs.wikipedia.org/wiki/Zlat%C3%A1_m%C3%ADsa
+- https://fa.wikipedia.org/wiki/%D8%AC%D8%A7%D9%85_%D8%B2%D8%B1%DB%8C%D9%86_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://es.wikipedia.org/wiki/La_copa_dorada
+- https://en.wikipedia.org/wiki/The_Golden_Bowl
+- https://sh.wikipedia.org/wiki/The_Golden_Bowl
